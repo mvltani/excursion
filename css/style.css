@@ -26,3 +26,10 @@ h2 {
   font-size: 42px;
   color: white;
 }
+
+h4 {
+  text-align: right;
+  color: gray;
+  font-weight: normal;
+  font-size: 21px;
+}
